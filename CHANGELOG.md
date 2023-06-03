@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.1](https://github.com/folke/trouble.nvim/compare/v2.3.0...v2.3.1) (2023-06-03)
+
+
+### Bug Fixes
+
+* Check parent window is valid before setting active ([#291](https://github.com/folke/trouble.nvim/issues/291)) ([c14786d](https://github.com/folke/trouble.nvim/commit/c14786d5e88f3e66360c70bab56694abd0e60af6))
+
 ## [2.3.0](https://github.com/folke/trouble.nvim/compare/v2.2.3...v2.3.0) (2023-05-25)
 
 
